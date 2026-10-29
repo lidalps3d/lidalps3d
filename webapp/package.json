@@ -23,7 +23,7 @@
     "proj4": "^2.22.0",
     "socket.io-client": "^4.8.4",
     "suncalc": "^2.1.1",
-    "three": "^0.174.0",
+    "three": "^0.186.1",
     "tilebelt": "^1.0.1"
   },
   "devDependencies": {
